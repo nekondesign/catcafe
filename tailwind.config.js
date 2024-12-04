@@ -7,11 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'hero-image': "url('/images/mainimg.jpg')",
+      },
       colors: {
+        'primary': '#AB8D49', // ベージュゴールド系の色
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
     },
   },
-  plugins: [],
+  plugins: [require('@tailwindcss/typography'),],
 };
