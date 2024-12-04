@@ -1,0 +1,90 @@
+{
+    "metadata": {
+      "title": "Nikukyu Cat Cafe",
+      "description": "A cozy cat cafe experience"
+    },
+    "hero": {
+      "title": "Nikukyu Cat Cafe",
+      "description": "Our authentic cafe menu and friendly cats will help you unwind from your daily stress. Feel free to drop by."
+    },
+    "info": {
+      "cafe": {
+        "title": "About Our Cafe",
+        "description": "We offer a wide variety of cafe menu items and light meals. The dining space and cat space are separated so you can relax comfortably."
+      },
+      "cats": {
+        "title": "Our Cats",
+        "description": "We have various cats including kittens and popular long-haired breeds. Some cats love to sit on laps, so feel free to interact with them."
+      },
+      "staff": {
+        "title": "About Our Staff",
+        "description": "Our staff includes certified cat care specialists and skilled cooks. We strive to create a relaxing atmosphere."
+      }
+    },
+    "cats": {
+      "title": "Our Cats",
+      "ganmo": "Ganmo",
+      "kinako": "Kinako",
+      "ai": "Ai",
+      "pochimii": "Pochi & Mii",
+      "sabi": "Sabi",
+      "kurumimike": "Kurumi & Mike"
+    },
+    "spaceinfo": {
+      "title": "Cafe Guide",
+      "catspace": {
+        "title": "Cat Space",
+        "description": "You can bring drinks ordered from our cafe. Order a snack set to give treats to the cats."
+      },
+      "reception": {
+        "title": "Reception",
+        "description": "Please check in at the reception. We recommend online reservations for weekends due to high demand."
+      },
+      "gourmet": {
+        "title": "Wednesday Gourmet Day",
+        "description": "Every Wednesday, we offer special lunch in our cafe space. Our weekly changing menu is very popular. Please inquire for details."
+      }
+    },
+    "staff": {
+      "title": "Meet Our Staff",
+      "mai": {
+        "title": "Mai, Owner",
+        "description": "A cat lover living with three cats at home. Certified cat care specialist."
+      },
+      "youko": {
+        "title": "Youko, Cafe & Kitchen Manager",
+        "description": "Our certified barista and kitchen manager. Hosts monthly coffee & cafe seminars."
+      },
+      "daisuke": {
+        "title": "Daisuke, Cat Dad",
+        "description": "A cat lover who enjoys DIY and motorcycles. He crafted most of our cafe's interior."
+      }
+    },
+    "cta": {
+      "button": "Check Availability",
+      "description": "Weekday mornings are usually less crowded. Reservations are recommended for weekends and holidays. Send us your name and contact info, and we'll respond with the latest availability."
+    },
+    "footer": {
+      "address": {
+        "title": "Address",
+        "content": "200-720\n1-2-3 Yamakita-cho, Yamanaka City, Yamagata"
+      },
+      "email": {
+        "title": "Email",
+        "content": "nikukyu@catcafe299.info"
+      },
+      "tel": {
+        "title": "Tel",
+        "content": "604-778-6047\nHours: 11am - 6pm\nClosed Tuesdays (Open on holidays)"
+      },
+      "copyright": "© Copyright {year} Nikukyu Cafe All rights reserved."
+    },
+    "loading": {
+        "message": "Loading..."  
+  },
+  "error": {
+    "title": "Something went wrong!",
+    "description": "An error occurred. Please try again.",
+    "retry": "Try Again"
+  }
+}
