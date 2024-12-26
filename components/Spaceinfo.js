@@ -6,9 +6,9 @@ export default function Spaceinfo() {
   const t = useTranslations('spaceinfo');
 
   const sections = [
-    { id: 'catspace', img: '/images/nekocafe2.jpg' },
-    { id: 'reception', img: '/images/uketuke1.jpg' },
-    { id: 'gourmet', img: '/images/ryouri.jpg' }
+    { id: 'catspace', img: '/images/nekocafe2.png' },
+    { id: 'reception', img: '/images/uketuke1.png' },
+    { id: 'gourmet', img: '/images/ryouri.png' }
   ];
 
   return (
