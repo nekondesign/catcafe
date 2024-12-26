@@ -6,10 +6,10 @@ export default function Cats() {
   const t = useTranslations('cats');
   
   const cats = [
-    { id: 'ganmo', img: '/public/images/01neko.jpg' },
-    { id: 'kinako', img: '/public/images/02neko.jpg' },
-    { id: 'ai', img: '/images/03neko.jpg' },
-    { id: 'pochimii', img: '/images/04neko.jpg' },
+    { id: 'ganmo', img: '/images/01neko.jpg' },
+    { id: 'kinako', img: '/images/02neko.jpg' },
+    { id: 'ai', img: '/images/04neko.jpg' },
+    { id: 'pochimii', img: '/images/03neko.jpg' },
     { id: 'sabi', img: '/images/05neko.jpg' },
     { id: 'kurumimike', img: '/images/06neko.jpg' }
   ];
